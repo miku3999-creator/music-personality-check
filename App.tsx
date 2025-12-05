@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import ArtistSelector from './ArtistSelector';
+import ArtistSelector from './components/ArtistSelector';
 import Questionnaire from './components/Questionnaire';
 import ResultCard from './components/ResultCard';
 import { ARTISTS } from './constants';
